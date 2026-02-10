@@ -1,20 +1,22 @@
 {
-    "description": "API documentation for PDF processing operations including conversion, manipulation, security, and utilities. Please note all requests require authentication and as such should have a 'X-API-KEY' provided in their header",
+    "name": "antonioleutsch/stirling-pdf-sdk",
+    "description": "PHP SDK for the Stirling PDF API - PDF processing, conversion, manipulation, security and more.",
+    "type": "library",
     "keywords": [
-        "openapitools",
-        "openapi-generator",
-        "openapi",
+        "stirling-pdf",
+        "pdf",
         "php",
         "sdk",
-        "rest",
-        "api"
+        "api",
+        "pdf-conversion",
+        "pdf-manipulation"
     ],
-    "homepage": "https://openapi-generator.tech",
-    "license": "unlicense",
+    "homepage": "https://github.com/AntonioLeutsch/Stirling-PDF-PHP-SDK",
+    "license": "MIT",
     "authors": [
         {
-            "name": "OpenAPI",
-            "homepage": "https://openapi-generator.tech"
+            "name": "Antonio Leutsch",
+            "homepage": "https://github.com/AntonioLeutsch"
         }
     ],
     "require": {
